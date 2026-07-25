@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### 🔭 What I'm Working On
 - 🚀 Developing an app where users create there own personal chatbot through AI-guided conversations called [LastingMind](https://app.lastingmind.ai)
-- 🎟️ Building a side project called FlipTik that scrapes event listings and transaction data from Viagogo to search for ticket arbitrage opportunities
+- 🎟️ Building a Python web scraper called FlipTik that retrieves event listings and transaction data from Viagogo to search for ticket arbitrage opportunities
 
 ### 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lester-arguello-343370249/)
